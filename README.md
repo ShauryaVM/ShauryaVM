@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ShauryaVM
+- Researcher
 - 👨‍💻Aspiring ML Engineer
 - 🔗Linkedin: www.linkedin.com/in/shaurya-mantrala
 
